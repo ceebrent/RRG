@@ -1,0 +1,2 @@
+# RRG
+Random Restaurant Generator
