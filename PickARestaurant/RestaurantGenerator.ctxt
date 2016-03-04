@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=randomR
+comment0.target=void\ displayRestaurant(java.lang.String)
+comment1.params=
+comment1.target=int\ randomNumber()
+comment2.params=
+comment2.target=java.util.ArrayList\ getURL()
+comment3.params=store
+comment3.target=void\ printURL(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ listCombiner()
+comment5.params=url
+comment5.target=java.util.ArrayList\ linkFinder(java.lang.String)
+numComments=6
